@@ -1,6 +1,6 @@
 pragma solidity ^0.4.0;
 
-//Create file Ecrow.sol and create 3 variables: a buyer, a seller, and a resolver
+//Create file Escrow.sol and create 3 variables: a buyer, a seller, and a resolver
 contract Escrow {
     // email edit function....
     
